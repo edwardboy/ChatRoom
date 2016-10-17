@@ -1,15 +1,13 @@
 //
-//  ViewController.h
+//  GCDViewController.h
 //  ChatRoom
 //
-//  Created by Groupfly on 16/8/29.
+//  Created by Groupfly on 16/9/12.
 //  Copyright © 2016年 Edward. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface GCDViewController : UIViewController
 
 @end
-
